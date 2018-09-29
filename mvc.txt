@@ -1,2 +1,3 @@
 只能释放webapp下面的静态资源,web-inf下面的不能释放
 <mvc:default-servlet-handler/>
+2222222222222
